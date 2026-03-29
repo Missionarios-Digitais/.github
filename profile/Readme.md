@@ -1,6 +1,6 @@
 <div align="center">
 
-![Missão!](/missao.jpg)
+![Missão!](./missao.jpg)
 
 # Partido Missão · Santa Catarina
 
